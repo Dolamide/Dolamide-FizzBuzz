@@ -22,7 +22,7 @@ public class Lab {
         }
         else if(n%5==0){
             return "Buzz";
-        }else
+        }else{}
         return "";
     }
 }
